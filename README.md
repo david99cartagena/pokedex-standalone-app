@@ -57,12 +57,12 @@ src/
 
 ## 🔑 Funcionalidades
 
-✅ **Carga Aleatoria:** Algoritmo que selecciona 30 IDs únicos en cada sesión o refresco.
-✅ **Navegación por URL:** El estado del modal está sincronizado con la ruta `/pokemon/:id`.
-✅ **Filtro de Imágenes:** Pipe inteligente que prioriza el _Official Artwork_ sobre los _Sprites_ frontales.
-✅ **Sistema de Colores Dinámico:** Servicio dedicado que asigna clases de Bootstrap según el tipo de Pokémon (Fuego, Agua, etc.).
-✅ **Diseño Responsive:** Ajustes específicos para dispositivos móviles en modales y tarjetas.
-✅ **Loader Integrado:** Feedback visual mientras se procesan las peticiones a la API.
+- ✅ **Carga Aleatoria:** Algoritmo que selecciona 30 IDs únicos en cada sesión o refresco.
+- ✅ **Navegación por URL:** El estado del modal está sincronizado con la ruta `/pokemon/:id`.
+- ✅ **Filtro de Imágenes:** Pipe inteligente que prioriza el _Official Artwork_ sobre los _Sprites_ frontales.
+- ✅ **Sistema de Colores Dinámico:** Servicio dedicado que asigna clases de Bootstrap según el tipo de Pokémon (Fuego, Agua, etc.).
+- ✅ **Diseño Responsive:** Ajustes específicos para dispositivos móviles en modales y tarjetas.
+- ✅ **Loader Integrado:** Feedback visual mientras se procesan las peticiones a la API.
 
 ## 📦 Instalación
 
